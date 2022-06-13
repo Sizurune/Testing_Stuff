@@ -1,0 +1,15 @@
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\bin\Debug\net6.0\Testing_Stuff.exe
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\bin\Debug\net6.0\Testing_Stuff.deps.json
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\bin\Debug\net6.0\Testing_Stuff.runtimeconfig.json
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\bin\Debug\net6.0\Testing_Stuff.dll
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\bin\Debug\net6.0\Testing_Stuff.pdb
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.csproj.AssemblyReference.cache
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.AssemblyInfoInputs.cache
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.AssemblyInfo.cs
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.dll
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\refint\Testing_Stuff.dll
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.pdb
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\Testing_Stuff.genruntimeconfig.cache
+C:\Users\Shadow\Documents\GitHub\Testing_Stuff\obj\Debug\net6.0\ref\Testing_Stuff.dll
